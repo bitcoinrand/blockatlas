@@ -11,7 +11,7 @@ import (
 
 // @Summary Lookup .eth / .zil addresses
 // @ID lookup
-// @Description Lookup ENS/ZNS to find registered addresses
+// @Description Lookup ENS/ZNS to find registered ADDRESSES
 // @Produce json
 // @Tags Naming
 // @Param name query string empty "string name"
